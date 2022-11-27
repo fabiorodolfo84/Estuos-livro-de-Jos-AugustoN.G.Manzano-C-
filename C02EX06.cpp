@@ -1,4 +1,4 @@
-// neste programa tem por finalidade apresentar um texto dividido em duas linhas utilizando o caractere especial \n em vez de utilizar o nalipulador de saida endl.
+// neste programa tem por finalidade apresentar um texto dividido em duas linhas utilizando o caractere especial \n em vez de utilizar o nalipulador de saida endl...
 
 #include <iostream>
 using namespace std;
